@@ -1099,7 +1099,7 @@ app.layout = html.Div(
                         html.P('Source Code Hosted on  ',
                                style={'display': 'inline'}),
                         html.A('Github',
-                               href='https://github.com/'),
+                               href='https://github.com/Unicorndy/covid19_dashboard'),
                         html.P(' 2020.',
                             style={'display': 'inline'}),
                         html.Hr(),
