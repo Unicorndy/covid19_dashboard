@@ -18,7 +18,8 @@ Comments are included in the source code `covid19.py` to assist you.
 ![Ver 1.0 bottom](https://github.com/Unicorndy/covid19_dashboard/blob/master/image/2_git.png)
 
 
-* Just clone this git, deploy to your own free heroku server, and you are ready to go. Guide to deployment from [Heroku official Guide](https://dash.plotly.com/deployment)
+* Just clone this git, deploy to your own free Heroku server, and you are ready to go. Guide to deployment from [Heroku official Guide](https://dash.plotly.com/deployment)
+* Ensure all files and folders (except folder image) are deployed to Heroku server.
 * Remember to create your personal [mapbox access token.](https://www.mapbox.com/) and edit in `covid19.py`
 * Optional: Create your own [Addthis](https://www.addthis.com/) share button.
 ---
