@@ -2,6 +2,9 @@
 Create your own dashboard web app with free resources using python only
 All tools stated here are free.
 
+### Data source provided by Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE):
+https://systems.jhu.edu/
+
 ### Prerequisite:
 * Basic python - numpy, pandas, matplotlib, [plotly dash](https://dash.plotly.com/)
 * Basic knowledge of creating python virtual environment. Recommended using [pyenv](https://github.com/pyenv/pyenv) or [Anaconda](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
