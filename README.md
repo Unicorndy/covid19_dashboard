@@ -3,7 +3,7 @@ Create your own dashboard web app with free resources using python only
 All tools stated here are free.
 
 ### Prerequisite:
-* Basic python - numpy, pandas, matplotlib, plotly dash.
+* Basic python - numpy, pandas, matplotlib, [plotly dash](https://dash.plotly.com/)
 * Basic knowledge of creating python virtual environment. Recommended using [pyenv](https://github.com/pyenv/pyenv) or [Anaconda](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
 
 ### Tools:
@@ -26,4 +26,5 @@ Comments are included in the source code `covid19.py` to assist you.
 ## Version 2.0 Dashboard based on bootstrap 4 (Source Code not included as it is still a wip)
 **Click [here](https://covid19dashboardsg.herokuapp.com//) to take a look at the web app**  
 ![Dark to Light Theme](https://github.com/Unicorndy/covid19_dashboard/blob/master/image/DarktoLightV2.gif)
+* Time Map and Bar Chart animation created with [Flourish Studio](https://flourish.studio/) and easily embeded into Plotly Dash with html.Iframe.
 ![Time map and bar chart](https://github.com/Unicorndy/covid19_dashboard/blob/master/image/Mapandbarchartanimation.gif)
