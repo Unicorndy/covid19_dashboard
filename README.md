@@ -13,7 +13,7 @@ All tools stated here are free.
 
 ## Version 1.0 Dashboard (Source Code - `covid19.py` included)
 Comments are included in the source code `covid19.py` to assist you.  
-**Click [here](https://covid19-dashboard-online.herokuapp.com/) to access the webapp**  
+**Click [here](https://covid19-dashboard-online.herokuapp.com/) to access the web app**  
 ![Ver 1.0 top](https://github.com/Unicorndy/covid19_dashboard/blob/master/image/1_git.png)
 ![Ver 1.0 bottom](https://github.com/Unicorndy/covid19_dashboard/blob/master/image/2_git.png)
 
@@ -23,6 +23,6 @@ Comments are included in the source code `covid19.py` to assist you.
 * Optional: Create your own [Addthis](https://www.addthis.com/) share button.
 ---
 ## Version 2.0 Dashboard based on bootstrap 4 (Source Code not included)
-**Click [here](https://covid19dashboardsg.herokuapp.com//) to take a look at the webapp**  
+**Click [here](https://covid19dashboardsg.herokuapp.com//) to take a look at the web app**  
 ![Dark to Light Theme](https://github.com/Unicorndy/covid19_dashboard/blob/master/image/DarktoLightV2.gif)
 ![Time map and bar chart](https://github.com/Unicorndy/covid19_dashboard/blob/master/image/Mapandbarchartanimation.gif)
