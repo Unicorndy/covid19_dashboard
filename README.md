@@ -22,7 +22,7 @@ Comments are included in the source code `covid19.py` to assist you.
 * Remember to create your personal [mapbox access token.](https://www.mapbox.com/) and edit in `covid19.py`
 * Optional: Create your own [Addthis](https://www.addthis.com/) share button.
 ---
-## Version 2.0 Dashboard based on bootstrap 4 (Source Code not included)
+## Version 2.0 Dashboard based on bootstrap 4 (Source Code not included as it is still a wip)
 **Click [here](https://covid19dashboardsg.herokuapp.com//) to take a look at the web app**  
 ![Dark to Light Theme](https://github.com/Unicorndy/covid19_dashboard/blob/master/image/DarktoLightV2.gif)
 ![Time map and bar chart](https://github.com/Unicorndy/covid19_dashboard/blob/master/image/Mapandbarchartanimation.gif)
