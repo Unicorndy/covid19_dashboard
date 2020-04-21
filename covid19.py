@@ -1102,6 +1102,10 @@ app.layout = html.Div(
                                href='https://github.com/Unicorndy/covid19_dashboard'),
                         html.P(' 2020.',
                             style={'display': 'inline'}),
+                        html.P(' Click here to access ',
+                            style={'display': 'inline'}),
+                        html.A('Covid 19 Version 2.0 Web App',
+                               href='https://covid19dashboardsg.herokuapp.com/'),
                         html.Hr(),
                     ], className="twelve columns",
                     style={'fontSize': 18, 'padding-top': 20}
