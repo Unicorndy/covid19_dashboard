@@ -1,0 +1,4 @@
+covid19heroku
+*.pyc
+.DS_Store
+.env
