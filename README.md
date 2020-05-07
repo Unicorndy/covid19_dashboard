@@ -1,4 +1,5 @@
 # Covid19 Dashboard Web App using Python (Plotly Dash)
+[Welcome to connect with me on Linkedin](https://www.linkedin.com/in/dylan-poh/)
 Create your own dashboard web app with free resources using python only
 All tools stated here are free.
 
